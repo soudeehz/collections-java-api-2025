@@ -36,7 +36,7 @@ public List<Pessoa> ordenarPorAltura(){
 
 
         System.out.println(ordenacaoPessoa.ordenarPorIdade());
-        gSystem.out.println(ordenacaoPessoa.ordenarPorAltura());
+        System.out.println(ordenacaoPessoa.ordenarPorAltura());
 
     }
 
